@@ -11,6 +11,7 @@ int main(){
     int d=124l;
 
     printf("a = " + a + ", b = " + b);
+    int kkk;
     
     int kuku;
 
