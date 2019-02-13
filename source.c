@@ -8,6 +8,7 @@ int main(){
    int c=2;
     int b=1;
     int c=221221;
+    int d=124l;
 
     printf("a = " + a + ", b = " + b);
     
